@@ -1,0 +1,53 @@
+
+.pinkbox {
+    background-color: pink;
+    border-color: black;
+    border: 12px;
+    padding: 2%;
+    height: 600px;
+    border-style: double; }
+
+div {
+    display: block;
+}
+
+.image2 {
+    float: right;        
+    text-align: left;
+    border-style: solid;
+    border-color: rgb(0, 128, 17); 
+}
+
+img[Attributes Style] {
+    width: 300px;
+    aspect-ratio: auto 300 / 200;
+    height: 200px;
+            img {
+                overflow-clip-margin: content-box;
+                overflow: clip;
+            }
+
+            style attribute {
+                text-align: left;
+            }
+        }
+
+.text-size24{
+    font-size: 24px;
+}
+
+.container{
+    display:flex;
+}
+.image {
+    margin:0 2%;
+    float:left;
+    height:200px;
+    width:200px;
+  }
+.text {
+    float:left;
+  }
+        
+
+
